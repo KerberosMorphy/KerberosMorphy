@@ -8,10 +8,10 @@
 
 <div align="center">  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat&logoColor=ECECEC?labelColor=ECECEC)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ECECEC?labelColor=ECECEC)
-![TypeScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ECECEC?labelColor=ECECEC)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=ECECEC?labelColor=ECECEC)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat&logoColor=ECECEC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ECECEC)
+![TypeScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ECECEC)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=ECECEC)
 
 </div>
 <!--
