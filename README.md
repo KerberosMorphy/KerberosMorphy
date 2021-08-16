@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=007ACC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![TypeScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=007ACC)
-![Vue.js](https://img.shields.io/badge/-JavaScript-4FC08D?style=for-the-badge&logo=vuejs&logoColor=007ACC)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=007ACC)
 
 </div>
 <!--
