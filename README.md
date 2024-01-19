@@ -6,7 +6,8 @@
 </p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat&logoColor=ECECEC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat&logo=django&logoColor=F1FFF7)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=FFFFFF)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=ECECEC)
 
 </div>
