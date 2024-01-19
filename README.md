@@ -5,7 +5,7 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerberosMorphy&theme=transparent&show_icons=true" />
 </p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat&logoColor=ECECEC)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat&logoColor=E6E8EA)
 ![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat&logo=django&logoColor=F1FFF7)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=FFFFFF)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=ECECEC)
