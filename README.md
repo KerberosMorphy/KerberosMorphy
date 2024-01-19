@@ -4,6 +4,7 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=KerberosMorphy&show=reviews,prs_merged,prs_merged_percentage&hide=commits&show_icons=true&theme=transparent" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerberosMorphy&theme=transparent&show_icons=true" />
 </p>
+<div align="center">  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat&logoColor=E6E8EA)
 ![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat&logo=django&logoColor=F1FFF7)
